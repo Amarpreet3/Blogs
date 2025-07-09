@@ -4,7 +4,7 @@ This repository highlights my published technical blog posts on cutting-edge AI 
 
 ---
 
-## 📚 Published at [Shaped AI](https://www.shaped.ai/blog)
+## 📚 Published on [Shaped AI](https://www.shaped.ai/blog)
 
 - [**Titans: Learning to Memorize at Test Time**](https://www.shaped.ai/blog/titans-learning-to-memorize-at-test-time-a-breakthrough-in-neural-memory-systems)  
   A deep dive into neural memory systems and how Titans enables test-time memorization—a breakthrough in LLM architecture.
