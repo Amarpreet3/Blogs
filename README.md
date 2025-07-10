@@ -1,4 +1,4 @@
-# 📝 Blogs by Amarpreet Kaur
+# 📓 Write-ups by Amarpreet Kaur
 
 
 ![image](https://github.com/user-attachments/assets/27f4fc03-1977-4d46-8b60-1dc77e48ba94)
