@@ -1,6 +1,8 @@
+
 # 📝 Blogs by Amarpreet Kaur
 
-This repository highlights my published technical blog posts on cutting-edge AI and ML topics, ranging from neural memory systems to practical AI tools for developers.
+Welcome! This repository showcases my published technical blog posts exploring state-of-the-art topics in Artificial Intelligence and Machine Learning — from neural memory architectures and recommender systems to scalable retrieval techniques and practical tools for developers.
+
 
 ---
 
