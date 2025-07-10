@@ -39,13 +39,6 @@ Each publication demonstrates deep technical expertise while making complex conc
 
 ---
 
-## 🔧 Developer-Focused Content on [Medium](https://medium.com/@gurmkauramarpreet)
-
-- [**AI-assisted Coding with Cody: Context-Aware Code Recommendations**](https://medium.com/@gurmkauramarpreet/ai-assisted-coding-with-cody-context-aware-code-recommendations-604799c7a021)  
-  *Hands-on exploration of Sourcegraph's Cody for intelligent code assistance and developer productivity*
-
----
-
 ## 🌟 Why These Publications Matter
 
 Each article in this collection represents hours of research, experimentation, and synthesis of complex technical concepts. Whether you're a:
