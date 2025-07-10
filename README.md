@@ -48,18 +48,6 @@ You'll find actionable insights, implementation details, and strategic perspecti
 
 ---
 
-## 🚀 Technical Expertise Demonstrated
-
-| Domain | Technologies & Concepts |
-|--------|------------------------|
-| **Neural Architectures** | Transformers, Attention Mechanisms, Memory Networks |
-| **Information Retrieval** | Vector Search, Semantic Indexing, Approximate NN |
-| **Recommendation Systems** | CTR Prediction, Multimodal Alignment, Conversational AI |
-| **Performance Optimization** | Flash Attention, Distributed Systems, Statistical Testing |
-| **Explainable AI** | Multi-stakeholder Systems, Fairness, Transparency |
-
----
-
 ## 📬 Connect & Collaborate
 
 🌐 **Portfolio:** Explore more projects and publications.
