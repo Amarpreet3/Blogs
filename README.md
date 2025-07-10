@@ -76,5 +76,5 @@ You'll find actionable insights, implementation details, and strategic perspecti
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/amarpreetkaur?style=social)](https://github.com/amarpreetkaur)
+[![GitHub followers](https://img.shields.io/github/followers/amarpreetkaur?style=social)](https://github.com/Amarpreet3)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@gurmkauramarpreet)
