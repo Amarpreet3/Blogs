@@ -35,7 +35,7 @@ Each publication demonstrates deep technical expertise while making complex conc
 ## 🧠 Published on [Medium](https://medium.com/@gurmkauramarpreet)
 
 - [**AI-assisted Coding with Cody: Context-Aware Code Recommendations**](https://medium.com/@gurmkauramarpreet/ai-assisted-coding-with-cody-context-aware-code-recommendations-604799c7a021)  
-  A hands-on overview of how Sourcegraph's Cody leverages AI to enhance developer productivity with smart, context-aware code suggestions.
+
 
 ---
 
