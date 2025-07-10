@@ -34,4 +34,4 @@ Welcome! This repository showcases my published technical blog posts exploring s
 
 ### 📬 Want to Collaborate or Learn More?
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/amarpreet-kaur-ai/) or explore more of my work in AI, machine learning, and developer tooling.
+Feel free to connect via [LinkedIn]([https://www.linkedin.com/in/amarpreet-kaur-ai/](https://www.linkedin.com/in/amarpreet-kaur-gurm-5b558766/)) or explore more of my work in AI, machine learning, and developer tooling.
