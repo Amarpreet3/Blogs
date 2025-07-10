@@ -1,9 +1,9 @@
-
+# 📝 Blogs by Amarpreet Kaur
 
 
 ![image](https://github.com/user-attachments/assets/27f4fc03-1977-4d46-8b60-1dc77e48ba94)
 
-# 📝 Welcome! This repository showcases my published technical blog posts exploring state-of-the-art topics in Artificial Intelligence.
+Welcome! This repository showcases my published technical blog posts exploring state-of-the-art topics in Artificial Intelligence.
 
 Each publication demonstrates deep technical expertise while making complex concepts accessible to both researchers and practitioners. From groundbreaking neural architectures to practical implementation strategies, these articles bridge the gap between theoretical innovation and real-world applications.
 
