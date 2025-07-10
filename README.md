@@ -75,6 +75,6 @@ You'll find actionable insights, implementation details, and strategic perspecti
 *"At the intersection of theoretical innovation and practical implementation, these publications represent a commitment to advancing the field of AI while making complex concepts accessible to the broader technical community."*
 
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/amarpreet-kaur-gurm-5b558766/)
 [![GitHub followers](https://img.shields.io/github/followers/amarpreetkaur?style=social)](https://github.com/Amarpreet3)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@gurmkauramarpreet)
